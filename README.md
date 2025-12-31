@@ -1,6 +1,6 @@
 # Praktikum 13 & 14
 
-**Nama:** Afdhal Agislam
+**Nama:** Razy Al Farisi
 
 **NIM:** 312410445  
 
@@ -52,21 +52,13 @@ User mengetik kata kunci -> Klik Cari -> URL berubah membawa parameter `?q=kata_
 
 ##  Hasil Implementasi
 
-### Tampilan Hasil
-
-![Screenshot hasil](output.png)
-
 ### Tampilan Fitur Pagination
 
-![Screenshot](pagination2.png)
-
-![Screenshot](pagination1.png)
+![Screenshot](pagination.png)
 
 ### Tampilan Fitur Pencarian Data
 
-![Screenshot](pencarian_data1.png)
-
-![Screenshot](pencarian_data2.png)
+![Screenshot](pencarian_data.png)
 
 
 
